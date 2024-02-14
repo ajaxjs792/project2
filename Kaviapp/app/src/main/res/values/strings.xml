@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kaviapp</string>
+
+
+
+
+    <!--Common -->
+    <string name="msg_no_internet">no internet connection.</string>
+    <string name="msg_no_wifi">please turn on your network connection.</string>
+    <string name="msg_unexpected_error">sorry could not process the request. please try again</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Validation text -->
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+
+</resources>
